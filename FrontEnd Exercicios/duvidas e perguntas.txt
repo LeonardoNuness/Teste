@@ -1,0 +1,22 @@
+
+
+
+Se tinha q usa flexbox
+
+
+Icone aba 
+<link rel="shortcut icon" type="image/jpg" href="assets/images/favicon-32x32.png"/>
+
+
+
+
+uso de display principalmente flexbox
+alinhamento de elementos dentro de uma div
+ajuste de posicao
+
+pq main e section
+lista ou div
+
+quando usasse cada display
+
+diferenca de absolute e relative
